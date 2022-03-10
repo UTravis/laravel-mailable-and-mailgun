@@ -1,5 +1,4 @@
 ## Laravel Mailable
-<p align="center">This project made use of Laravel Mailable Class, which was created using the command below</p>
 ``` 
     php artisan maka:mail name_of_mail_project
 ```
